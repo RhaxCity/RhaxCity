@@ -10,7 +10,7 @@
 - 🚀 **System Design & Architecture**: Crafting robust, efficient, and maintainable systems.  
 - 📊 **Data Analysis & Machine Learning**: From predictive modeling to unsupervised learning techniques.  
 - 🛠️ **Technology Stack**: Spring Boot, Angular, Docker, PostgreSQL, GitHub Actions, and more!  
-- 💻 **Programming**: Proficient in Python, Java, C++, and Matlab.  
+- 💻 **Programming**: Proficient in Python, R, and Matlab.  
 
 ---
 
