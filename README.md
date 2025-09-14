@@ -1,12 +1,13 @@
 # 👨‍💻 Juan José Gómez Arenas  
-🎓 **Dual-Degree Student** in Systems Engineering and Data Science  
-📍 Bogotá, Colombia | 🌐 [LinkedIn](https://linkedin.com/in/juanjose-gomez-arenas/)  
+👔  Systems Engineer
+🎓  Data Science Student 
+📍  Bogotá, Colombia | 🌐 [LinkedIn](https://linkedin.com/in/juanjose-gomez-arenas/)  
 
 ---
 
 ## 🌟 About Me  
 
-👋 Hi there! I'm Juan José, a driven **System Engineering and Data Science** student at **Pontificia Universidad Javeriana**, passionate about building scalable systems and extracting meaningful insights from data to empower decision-making. My expertise spans:  
+👋 Hi there! I'm Juan José, a driven **Systems Engineer and Data Science student** at **Pontificia Universidad Javeriana**, passionate about building scalable systems and extracting meaningful insights from data to empower decision-making. My expertise spans:  
 - 🚀 **System Design & Architecture**: Crafting robust, efficient, and maintainable systems.  
 - 📊 **Data Analysis & Machine Learning**: From predictive modeling to unsupervised learning techniques.  
 - 🛠️ **Technology Stack**: Spring Boot, Angular, Docker, PostgreSQL, GitHub Actions, and more!  
